@@ -1,8 +1,9 @@
 # C Mini Projects
 
-A collection of **C programming exercises and mini projects** developed as part of my university coursework and programming practice.
+A collection of **over 40 C programming exercises and mini projects** developed as part of my university coursework and programming practice.
 
-All programs in this repository were **written entirely from scratch without AI assistance in their implementation or algorithms** and cover a variety of fundamental programming concepts, algorithms, data structures, and small interactive projects
+All programs in this repository were **written entirely from scratch without AI assistance in their implementation or algorithms** and cover a variety of fundamental programming concepts, algorithms, data structures, and small interactive projects.
+
 
 ## Repository Structure
 
